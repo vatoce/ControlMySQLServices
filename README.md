@@ -7,7 +7,7 @@ A Windows System Tray tool to start/stop MySQL instances — Windows Services an
 **Vatoce Software — [vatoce.com](https://vatoce.com)**  
 **فاتوس للبرمجيات — [vatoce.com](https://vatoce.com)**
 
-Repository: [github.com/vatoceit-cloud/ControlMySQLServices](https://github.com/vatoceit-cloud/ControlMySQLServices)
+Repository: [github.com/vatoce/ControlMySQLServices](https://github.com/vatoce/ControlMySQLServices)
 
 ---
 
